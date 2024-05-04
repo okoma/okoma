@@ -1,1 +1,1 @@
-# okoma.me
+# okoma
